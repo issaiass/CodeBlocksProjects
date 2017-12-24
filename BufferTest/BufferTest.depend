@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1474857767 source:c:\users\isaias\documents\codeblocksprojects\buffertest\main.cpp
+	<iostream>
+	<stdlib.h>
+	"FIFO.h"
+
+1474856387 c:\users\isaias\documents\codeblocksprojects\buffertest\fifo.h
+
+1474856672 source:c:\users\isaias\documents\codeblocksprojects\buffertest\fifo.cpp
+	"FIFO.h"
+
